@@ -7,16 +7,16 @@ website:
   repo-url: https://github.com/archaeothommy/archaeothommy.github.io
 #  favicon: favicon.png  
 navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home
+    right: 
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
-
-execute:
-  freeze: auto
+    
