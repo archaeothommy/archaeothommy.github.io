@@ -1,2 +1,2 @@
 # archaeothommy.github.io
-Demonstration repository for the DMG Data Science Short Course
+Demonstration webpage for the DMG Data Science Short Course
