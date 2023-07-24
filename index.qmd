@@ -1,5 +1,11 @@
 ---
-pagetitle: "Personal webpage"
+pagetitle: "Thomas Rose"
 ---
 
-Test
+# This is the Home page of your web site. 
+
+Don't forget to update the YAML configuration of the webpage in the _quarto.yml and on this page! You can also try out different themes in the configuration file. The available themes are listed at <https://quarto.org/docs/output-formats/html-themes.html#overview>
+
+To learn more about quarto: <https://quarto.org>
+
+Include here anything that might be of interest, such as projects, publications, ... 

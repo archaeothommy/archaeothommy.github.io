@@ -5,12 +5,13 @@ website:
   site-url: https://archaeothommy.github.io/
   repo-url: https://github.com/archaeothommy/archaeothommy.github.io/
   favicon: favicon.png
-  title: "Personal website"
+  title: "Thomas Rose"
   navbar:
     left:
-#      - text: "Home"
-#        href: index.qmd
-      - about.qmd
+      - text: "My research"
+        href: index.qmd
+      - text: "About me"
+        href: about.qmd
 
 format:
   html:
