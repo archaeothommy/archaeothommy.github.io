@@ -1,5 +1,5 @@
 ---
-title: "Thomas Rose"
+title: "Katze"
 about:
   id: template-area
   template: jolla
@@ -30,12 +30,11 @@ Here goes the information about you.
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Fahrenheitstr. 52  
-44879 Bochum  
-Germany  
+Katze
+Kaiserstraße 56
+60314
 
-Phone +49 1522 3176524  
+Phone +49 93652028 
 E-Mail: thomas.rose [at] daad-alumni.de
 
 ## Privacy
